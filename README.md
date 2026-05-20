@@ -26,4 +26,4 @@ Hi, I'm Shubham Dangi 👋<br><br>Co-Founder of LUXUR AI<br><br>Passionate about
 
 ###
 
-[![](https://komarev.com/ghpvc/?username=techyshubham18&icon=0&color=0)](https://visitcount.itsvg.in)##
+[![](https://komarev.com/ghpvc/?username=techyshubham18&icon=0&color=0)](https://visitcount.itsvg.in)
