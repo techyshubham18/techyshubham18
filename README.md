@@ -16,10 +16,14 @@ Hi, I'm Shubham Dangi 👋<br><br>Co-Founder of LUXUR AI<br><br>Passionate about
 ![](https://streak-stats.demolab.com/?user=techyshubham18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=techyshubham18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
----
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+
 [![](https://komarev.com/ghpvc/?username=techyshubham18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
