@@ -12,13 +12,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Generate Pacman
-        uses: buluma/github-action-readme-generator@main
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Generate contribution graph
+
+      - name: Generate Pacman Graph
         uses: Iguineli/pacman-contribution-graph@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
