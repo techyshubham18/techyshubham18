@@ -6,6 +6,9 @@ Hi, I'm Shubham Dangi 👋<br><br>Co-Founder of LUXUR AI<br><br>Passionate about
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhx_404error) [
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
 ](https://www.facebook.com/share/1AnHsG2uMB/)
+[
+![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)
+](https://www.threads.com/@shubhx_404error)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.1819shubham.dangi@gmail.com) 
 
 # 💻 Tech Stack:
